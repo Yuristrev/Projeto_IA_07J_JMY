@@ -20,21 +20,3 @@ id_candidato,texto_curriculo,experiencia_anos,formacao,habilidades,vaga,classifi
 18,"Profissional com experiência em análise exploratória de dados, automação de planilhas e elaboração de relatórios em Python.",2,"Ciência de Dados","Python; Excel; análise exploratória; automação; relatórios","Analista de Dados Júnior","apto"
 19,"Experiência em atendimento bancário, vendas de produtos financeiros e relacionamento com clientes.",4,"Administração","atendimento; vendas; produtos financeiros; negociação","Analista de Dados Júnior","não apto"
 20,"Atuação com SQL, Excel avançado e construção de indicadores para acompanhamento de performance comercial.",2,"Estatística","SQL; Excel avançado; indicadores; análise de performance","Analista de Dados Júnior","apto"
-
-Vaga 1: Analista de Recrutamento e Seleção
-Critérios mais aderentes:
-	•	formação em RH, Psicologia, Administração ou áreas correlatas
-	•	experiência com recrutamento, triagem, entrevistas, ATS
-	•	habilidades como comunicação, seleção por competências, LinkedIn Recruiter, organização
-
-Vaga 2: Analista de Dados Júnior
-Critérios mais aderentes:
-	•	formação em TI, Sistemas de Informação, Ciência de Dados, Engenharia ou áreas correlatas
-	•	experiência com análise de dados
-	•	habilidades como Excel, SQL, Python, Power BI, estatística
-
-Você terá:
-	•	20 candidaturas
-	•	10 para cada vaga
-	•	mistura de candidatos aptos e não aptos
-	•	campos numéricos, categóricos e textuais
