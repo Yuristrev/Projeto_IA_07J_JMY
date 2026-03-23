@@ -1,3 +1,40 @@
+Dataset:
 id_candidato,texto_curriculo,experiencia_anos,formacao,habilidades,vaga,classificacao
-1,"Experiência em recrutamento e seleção",3,"Psicologia","recrutamento; entrevistas","Analista de Recrutamento e Seleção","apto"
-2,"Experiência em análise de dados com Python",2,"TI","Python; SQL","Analista de Dados Júnior","apto"
+1,"Profissional com experiência em triagem de currículos, entrevistas por competências e alinhamento de perfil com gestores. Atuação com vagas operacionais e administrativas.",3,"Psicologia","recrutamento; seleção; entrevistas; comunicação; LinkedIn","Analista de Recrutamento e Seleção","apto"
+2,"Atuação com análise de indicadores de RH, apoio em recrutamento e controle de planilhas de candidatos. Experiência com processos seletivos internos.",2,"Administração","Excel; recrutamento; organização; comunicação; ATS","Analista de Recrutamento e Seleção","apto"
+3,"Experiência em atendimento ao cliente e rotinas administrativas. Apoio em organização de documentos e contato com candidatos.",1,"Administração","atendimento; organização; pacote office; comunicação","Analista de Recrutamento e Seleção","não apto"
+4,"Profissional com experiência em recrutamento de vagas de tecnologia, hunting no LinkedIn, entrevistas e pareceres de candidatos.",4,"Psicologia","tech recruiter; LinkedIn Recruiter; entrevistas; hunting; seleção","Analista de Recrutamento e Seleção","apto"
+5,"Atuação na área comercial com foco em vendas consultivas, prospecção e negociação com clientes. Uso frequente de CRM.",3,"Marketing","vendas; negociação; CRM; comunicação","Analista de Recrutamento e Seleção","não apto"
+6,"Experiência em departamento pessoal, controle de folha e documentação de colaboradores. Contato com admissões e onboarding.",2,"Recursos Humanos","departamento pessoal; onboarding; organização; RH","Analista de Recrutamento e Seleção","apto"
+7,"Profissional com experiência em entrevistas, divulgação de vagas, triagem de currículos e acompanhamento de candidatos ao longo do processo seletivo.",2,"Gestão de Recursos Humanos","triagem; entrevistas; divulgação de vagas; comunicação; ATS","Analista de Recrutamento e Seleção","apto"
+8,"Atuação com suporte administrativo e controle de agendas. Experiência com recepção e atendimento presencial.",2,"Pedagogia","organização; atendimento; agenda; pacote office","Analista de Recrutamento e Seleção","não apto"
+9,"Experiência em recrutamento e seleção para grande volume de vagas, aplicação de testes comportamentais e elaboração de pareceres.",5,"Psicologia","recrutamento em massa; entrevistas; testes comportamentais; parecer","Analista de Recrutamento e Seleção","apto"
+10,"Atuação em marketing digital com criação de campanhas, redes sociais e análise de métricas de engajamento.",2,"Publicidade e Propaganda","marketing digital; redes sociais; métricas; criatividade","Analista de Recrutamento e Seleção","não apto"
+11,"Profissional com experiência em análise de dados, construção de dashboards e tratamento de bases em Excel e Power BI.",2,"Sistemas de Informação","Excel; Power BI; análise de dados; indicadores; dashboards","Analista de Dados Júnior","apto"
+12,"Experiência com consultas em SQL, limpeza de dados e elaboração de relatórios gerenciais para apoio à tomada de decisão.",1,"Ciência da Computação","SQL; relatórios; análise de dados; banco de dados","Analista de Dados Júnior","apto"
+13,"Atuação em suporte técnico e manutenção de computadores, com atendimento a usuários e instalação de softwares.",2,"Tecnologia da Informação","suporte; hardware; software; atendimento","Analista de Dados Júnior","não apto"
+14,"Profissional com conhecimento em Python, estatística básica e visualização de dados. Participação em projetos acadêmicos com análise exploratória.",1,"Engenharia da Computação","Python; estatística; visualização de dados; pandas","Analista de Dados Júnior","apto"
+15,"Experiência com rotinas financeiras, conciliação bancária e controle de contas a pagar e receber.",3,"Ciências Contábeis","financeiro; conciliação; contas a pagar; Excel","Analista de Dados Júnior","não apto"
+16,"Atuação com criação de dashboards, modelagem de dados e acompanhamento de indicadores de desempenho.",3,"Sistemas de Informação","Power BI; modelagem de dados; KPI; Excel; SQL","Analista de Dados Júnior","apto"
+17,"Experiência em programação web e desenvolvimento de sites com HTML, CSS e JavaScript.",2,"Análise e Desenvolvimento de Sistemas","HTML; CSS; JavaScript; desenvolvimento web","Analista de Dados Júnior","não apto"
+18,"Profissional com experiência em análise exploratória de dados, automação de planilhas e elaboração de relatórios em Python.",2,"Ciência de Dados","Python; Excel; análise exploratória; automação; relatórios","Analista de Dados Júnior","apto"
+19,"Experiência em atendimento bancário, vendas de produtos financeiros e relacionamento com clientes.",4,"Administração","atendimento; vendas; produtos financeiros; negociação","Analista de Dados Júnior","não apto"
+20,"Atuação com SQL, Excel avançado e construção de indicadores para acompanhamento de performance comercial.",2,"Estatística","SQL; Excel avançado; indicadores; análise de performance","Analista de Dados Júnior","apto"
+
+Vaga 1: Analista de Recrutamento e Seleção
+Critérios mais aderentes:
+	•	formação em RH, Psicologia, Administração ou áreas correlatas
+	•	experiência com recrutamento, triagem, entrevistas, ATS
+	•	habilidades como comunicação, seleção por competências, LinkedIn Recruiter, organização
+
+Vaga 2: Analista de Dados Júnior
+Critérios mais aderentes:
+	•	formação em TI, Sistemas de Informação, Ciência de Dados, Engenharia ou áreas correlatas
+	•	experiência com análise de dados
+	•	habilidades como Excel, SQL, Python, Power BI, estatística
+
+Você terá:
+	•	20 candidaturas
+	•	10 para cada vaga
+	•	mistura de candidatos aptos e não aptos
+	•	campos numéricos, categóricos e textuais
