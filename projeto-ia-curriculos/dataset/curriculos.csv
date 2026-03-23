@@ -1,0 +1,3 @@
+id_candidato,texto_curriculo,experiencia_anos,formacao,habilidades,vaga,classificacao
+1,"Experiência em recrutamento e seleção",3,"Psicologia","recrutamento; entrevistas","Analista de Recrutamento e Seleção","apto"
+2,"Experiência em análise de dados com Python",2,"TI","Python; SQL","Analista de Dados Júnior","apto"
