@@ -7,10 +7,14 @@ Integrantes:
 - Matheus Leonardo José - RA: 10341130
 
 Descrição:
-Este arquivo realiza o pré-processamento dos dados, transformação de texto, treinamento de modelo de classificação e avaliaçãode desempenho.
+Este arquivo realiza o pré-processamento dos dados presentes do Dataset referente a análise de currículos, transformação de texto, treinamento de modelo de classificação e avaliaçãode desempenho.
 
 Histórico:
-Neste arquivo apenas alteramos o caminho para ler o Dataset e o que está sendo exibido da linha 68 ao 71 desse código. O restante do codigo permaneceu igual de quando o código foi implementado
+O código foi feito e testado no aplicativo local do VS Code e depois copiado para o GitHub. 
+Neste arquivo, apenas alteramos o caminho para ler o Dataset (linha 29) e o que será exibido (linha 72 à 75). 
+O restante do codigo permaneceu igual de quando o código foi implementado, apresentado nas datas abaixo:
+Versão 01 (código incluído no GitHub): 24/03/2026
+Versão 02: 24/03/2026
 
 """
 
